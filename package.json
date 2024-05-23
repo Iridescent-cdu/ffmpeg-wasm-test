@@ -1,5 +1,5 @@
 {
-  "name": "ffmpeg-wasm-amr2mp3",
+  "name": "ffmpeg-wasm-test",
   "private": true,
   "version": "0.0.0",
   "type": "module",
